@@ -21,7 +21,7 @@
 ### Clone the repository
 
 ```
-git clone https://github.com/your-username/mynoto.git
+git clone https://github.com/duminufarlis/Mynoto-ICP.git
 cd mynoto
 ```
 
