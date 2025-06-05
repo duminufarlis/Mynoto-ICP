@@ -34,7 +34,7 @@ dfx deploy
 Then open the app at http://localhost:5173
 
 ## 📁 Project Structure
-
+```
 mynoto/
 ├── backend/
 │   └── app.mo
@@ -44,6 +44,7 @@ mynoto/
 │   ├── index.html
 │   └── style.css
 └── README.md
+```
 
 ## 🛠 Technologies Used
 
